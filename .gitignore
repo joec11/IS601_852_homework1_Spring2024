@@ -1,2 +1,5 @@
 # Ignore SWO files
 *.swo
+
+# Ignore SWP files
+*.swp
